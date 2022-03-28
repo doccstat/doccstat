@@ -20,7 +20,7 @@ My name is Xingchi, I am a PhD candidate in Statistics at Texas A&M University.
 
 ## Stats:
 <a href="#stats" align="center" style="width:100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doccstat&hide=Makefile&theme=react" style='display: width: 50%; height: 170px'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doccstat&hide=Makefile&theme=react" style='display: width: 50%'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doccstat&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Xingchi's GitHub Stats" style='display: width: 50%'>
 </a>
 
