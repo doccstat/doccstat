@@ -2,7 +2,7 @@
 
 <img src='assets/banner.gif' style='width: 100%'>
 
-My name is Xingchi, I am a PhD candidate in Statistics at Texas A&M University.
+My name is Xingchi, I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony.
 
 ## Languages I know:
 - Python
