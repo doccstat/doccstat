@@ -2,7 +2,7 @@
 [![:total status badge](https://doccstat.r-universe.dev/badges/:total)](https://doccstat.r-universe.dev)
 
 ### Hi there 👋
-I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony.
+I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony. Check out my R package: fastcpd at [![fastcpd status badge](https://doccstat.r-universe.dev/badges/fastcpd)](https://doccstat.r-universe.dev)
 
 ### Stats:
 <a href="#stats" align="center" style="width:100%">
