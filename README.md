@@ -17,4 +17,4 @@ I am a PhD candidate in Statistics at Texas A&M University. You can also call me
 - 💬 Ask me about souls-like games
 - 📫 How to reach me: [email](mailto:anthony.li@stat.tamu.edu)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: people can argue about everything, for example: ⏸️ is not pause until you tap on it
+- ⚡ Fun fact: people will argue about anything, for example: ⏸️ is not pause until you tap on it
