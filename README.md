@@ -1,19 +1,9 @@
-### Hi there 👋
-
 [![:name status badge](https://doccstat.r-universe.dev/badges/:name)](https://doccstat.r-universe.dev)
 [![:total status badge](https://doccstat.r-universe.dev/badges/:total)](https://doccstat.r-universe.dev)
 
-My name is Xingchi, I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony.
+### Hi there 👋
 
-## Languages I know:
-- Python
-- R
-- Java
-- C++
-- MatLab
-- Bash
-- HTML
-- CSS
+I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony.
 
 ## You can find me at:
 - [Twitter](https://twitter.com/XingchiLi)
