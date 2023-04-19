@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src='assets/banner.gif' style='width: 100%'>
+[![:name status badge](https://doccstat.r-universe.dev/badges/:name)](https://doccstat.r-universe.dev)
+[![:total status badge](https://doccstat.r-universe.dev/badges/:total)](https://doccstat.r-universe.dev)
 
 My name is Xingchi, I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony.
 
