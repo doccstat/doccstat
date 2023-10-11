@@ -9,8 +9,8 @@ I am a PhD candidate in Statistics at Texas A&M University. You can also call me
 
 ### Stats:
 <a href="#stats" align="center" style="width:100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doccstat&hide=Makefile&theme=react" style='display: width: 50%'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doccstat&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Xingchi's GitHub Stats" style='display: width: 50%'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doccstat&theme=github" style='display: width: 50%'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doccstat&show_icons=true&line_height=33.5&count_private=true&theme=github" alt="doccstat's GitHub Stats" style='display: width: 50%'>
 </a>
 
 ### Facts:
@@ -21,4 +21,4 @@ I am a PhD candidate in Statistics at Texas A&M University. You can also call me
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: people will argue about anything, for example: ⏸️ is not pause until you tap on it
 
-[![doccstat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doccstat&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![doccstat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doccstat&theme=github)](https://github.com/doccstat)
