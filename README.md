@@ -20,3 +20,5 @@ I am a PhD candidate in Statistics at Texas A&M University. You can also call me
 - 💬 Ask me about souls-like games
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: people will argue about anything, for example: ⏸️ is not pause until you tap on it
+
+[![doccstat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doccstat&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
