@@ -1,8 +1,6 @@
 [![:name status badge](https://doccstat.r-universe.dev/badges/:name)](https://doccstat.r-universe.dev)
 [![:total status badge](https://doccstat.r-universe.dev/badges/:total)](https://doccstat.r-universe.dev)
 [![Gmail Badge](https://img.shields.io/badge/-anthony.li@stat.tamu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anthony.li@stat.tamu.edu)](mailto:anthony.li@stat.tamu.edu) 
-[![Linkedin Badge](https://img.shields.io/badge/-doccstat-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doccstat/)](https://www.linkedin.com/in/doccstat/)
-[![Github Badge](https://img.shields.io/badge/-doccstat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/doccstat/)](https://www.github.com/doccstat/)
 
 ### Hi there 👋
 I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony. Check out my R package: [fastcpd](https://github.com/doccstat/fastcpd)
