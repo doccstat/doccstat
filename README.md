@@ -12,11 +12,7 @@ I am a PhD candidate in Statistics at Texas A&M University. You can also call me
 </a>
 
 ### Facts:
-- 🔭 I'm currently working on Change Point Detection
-- 🌱 I'm currently learning C++
-- 👯 I'm looking to collaborate on some application stuff which could result in publications
+- 🔭 I'm currently working on Change Point Detection and LLM watermarks
 - 💬 Ask me about souls-like games
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: people will argue about anything, for example: ⏸️ is not pause until you tap on it
 
 [![doccstat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=doccstat&theme=react)](https://github.com/doccstat)
