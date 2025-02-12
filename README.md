@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-anthony.li@stat.tamu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anthony.li@stat.tamu.edu)](mailto:anthony.li@stat.tamu.edu) 
 
 ### Hi there 👋
-I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony. Check out my R package: [fastcpd](https://github.com/doccstat/fastcpd)
+I am a PhD candidate in Statistics at Texas A&M University. You can also call me Anthony.
 
 ### Facts:
 - 🔭 I'm currently working on Change Point Detection and LLM watermarks
